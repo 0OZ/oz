@@ -1,5 +1,8 @@
 # Ignore all files and directories by default
 *
+.oh-my-zsh/
+.oh-my-zsh/*
+
 # Exclude specific configuration directories and files from being ignored
 !/.gitignore
 !/config/
