@@ -1,0 +1,9 @@
+# Ignore all files and directories by default
+*
+# Exclude specific configuration directories and files from being ignored
+!/.gitignore
+!/config/
+!/config/nvim/
+!/config/nvim/**
+!/config/alacritty/
+!.tmux.conf
