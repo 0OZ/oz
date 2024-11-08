@@ -5,8 +5,8 @@
 
 # Exclude specific configuration directories and files from being ignored
 !/.gitignore
-!/config/
-!/config/nvim/
-!/config/nvim/**
-!/config/alacritty/
+!/.config/
+!/.config/nvim/
+!/.config/nvim/**
+!/.config/alacritty/
 !.tmux.conf
